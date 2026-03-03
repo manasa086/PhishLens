@@ -1,6 +1,6 @@
 /**
  * File: firestore.js
- * Author: Swathi Pallikala
+ * Author: Manasa Somisetty
  * Project: PhishLens
  * Description:
  *   Initializes and exports the Firestore database connection.
