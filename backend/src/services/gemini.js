@@ -1,6 +1,5 @@
 /**
  * File: gemini.js
- * Author: Swathi Pallikala
  * Project: PhishLens
  * Description:
  *   Robust Gemini wrapper that uses the REST API directly.
