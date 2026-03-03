@@ -1,6 +1,6 @@
 /**
  * File: routes/analytics.js
- * Author: Swathi Pallikala
+ * Author: Manasa Somisetty
  * Project: PhishLens
  * Description:
  *   Analytics read endpoint (stub for now).
