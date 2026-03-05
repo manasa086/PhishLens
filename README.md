@@ -165,4 +165,3 @@ All analysis results are saved in Google Firestore. Each image document includes
 - [Analytics & Logging Report (PDF)](https://github.com/user-attachments/files/23894676/Analytics.Logging.pdf)
 - [Demo Video](https://youtu.be/LySRsGC9_S8)
 
-> **Note:** Most development was done locally and shared internally, so the GitHub repository reflects only a small number of commits. The GitHub Issue Board was not used.
